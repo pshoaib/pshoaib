@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Kimaye-Clone](https://kimayeclone.netlify.app)
 
-- 👨‍💻 All of my projects are available at [https://mellifluous-parfait-df1fb3.netlify.app/](https://mellifluous-parfait-df1fb3.netlify.app/)
+- 👨‍💻 All of my projects are available at https://dreamy-sprite-79235f.netlify.app/)
 
 - 💬 Ask me about **React JavaScript**
 
